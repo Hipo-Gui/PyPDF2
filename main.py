@@ -8,7 +8,6 @@
 # Ative seu ambiente virtual
 # pip install pypdf2
 
-
 # PyPDF2 para manipular arquivos PDF (PdfWriter)
 # PyPDF2 para manipular arquivos PDF (PdfMerger)
 # PyPDF2 é uma biblioteca de manipulação de arquivos PDF feita em Python puro,
